@@ -1,7 +1,14 @@
 appicns
 =======
 
+Application icons, simplified.
+
+About
+-----
+
 .app.icns is a for-fun project by [Andrew](http://twitter.com/andrevvm) & [Kara](http://kara-z.com).
+
+For icons updates or requests, tweet [@appicns](http://twitter.com/appicns)
 
 Installation
 ------------
